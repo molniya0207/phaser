@@ -1,4 +1,4 @@
-# Phaser - HTML5 Game Framework
+# Phaser - Best HTML5 Game Framework
 
 ![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
 
@@ -8,7 +8,7 @@ Phaser is available in two versions: Phaser 3 and [Phaser CE - The Community Edi
 
 Along with the fantastic open source community, Phaser is actively developed and maintained by [Photon Storm](http://www.photonstorm.com). As a result of rapid support, and a developer friendly API, Phaser is currently one of the [most starred](https://github.com/collections/javascript-game-engines) game frameworks on GitHub.
 
-Thousands of developers from indie and multi-national digital agencies, and universities worldwide use Phaser. You can take a look at their incredible [games](https://phaser.io/games/).
+Millions of developers from indie and multi-national digital agencies, and universities worldwide use Phaser. You can take a look at their incredible [games](https://phaser.io/games/).
 
 **Visit:** The [Phaser website](https://phaser.io) and follow on [Twitter](https://twitter.com/phaser_) (#phaserjs)<br />
 **Learn:** [API Docs](https://github.com/photonstorm/phaser3-docs), [Support Forum][forum] and [StackOverflow](https://stackoverflow.com/questions/tagged/phaser-framework)<br />
